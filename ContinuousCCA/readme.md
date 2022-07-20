@@ -1,6 +1,6 @@
 ### Continuous Concurrent Credit Assignment (CCCA)
 
-The code follows the logic of the spinning up in deep RL library (https://spinningup.openai.com) and can be installed as an ''add-on'' algorithm to the existing ones. (It can also be used stand-alone)
+The code follows the logic of the spinning up in deep RL library (https://spinningup.openai.com) and should be installed as an ''add-on'' algorithm to the existing ones. (It can also be used stand-alone with light changes)
 
 It is supposed to run on continuous environments under the gym suite : https://www.gymlibrary.ml/
 
